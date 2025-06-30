@@ -194,7 +194,7 @@ const exportTodos = () => {
 <template>
   <div class="todo-container">
     <div class="header-container">
-      <h1>2-Factor Authentication</h1>
+      <h1>2-Factor</h1>
       <a href="https://cnb.cool/atxdb/2f" target="_blank" rel="noopener noreferrer" class="cnb-link">
         <img :src="cnbIcon" alt="cnb" class="github-icon" />
       </a>
