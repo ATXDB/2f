@@ -1,5 +1,5 @@
 # Two-Factor Authentication
-ii
+
 Secure local code generator | Data is stored only on your device.
 
 ## Project Setup
@@ -18,6 +18,7 @@ npm run dev
 
 ```sh
 npm run build
+```
 
 ### test
 
